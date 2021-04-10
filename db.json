@@ -1,6 +1,8 @@
 {
-  "name" : "ToKYo",
-  "position" : "Software Engineer",
-  "image" : "https://media.bitdegree.org/storage/media/images/2018/08/what-is-a-web-developer.jpg",
-  "description" : "dev guy and tutorialist"
+  {
+    "name" : "ToKYo",
+    "position" : "Software Engineer",
+    "image" : "https://media.bitdegree.org/storage/media/images/2018/08/what-is-a-web-developer.jpg",
+    "description" : "dev guy and tutorialist"
+  }
 }
